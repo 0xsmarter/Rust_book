@@ -1,0 +1,1 @@
+C:\Users\PC\Documents\Rust_lang_book\Trait_objects\target\debug\Trait_objects.exe: C:\Users\PC\Documents\Rust_lang_book\Trait_objects\src\lib.rs C:\Users\PC\Documents\Rust_lang_book\Trait_objects\src\main.rs
